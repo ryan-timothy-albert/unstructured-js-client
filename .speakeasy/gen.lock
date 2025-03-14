@@ -5,8 +5,8 @@ management:
   docVersion: 1.0.81
   speakeasyVersion: 1.517.3
   generationVersion: 2.548.6
-  releaseVersion: 0.22.1
-  configChecksum: 2cebaaef5f17f81677d245e1b6606f99
+  releaseVersion: 0.22.2
+  configChecksum: 9d709c7fd8d29feae43c8100edbde8fd
   repoURL: https://github.com/Unstructured-IO/unstructured-js-client.git
   repoSubDirectory: .
   installationURL: https://github.com/Unstructured-IO/unstructured-js-client
